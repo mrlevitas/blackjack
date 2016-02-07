@@ -85,5 +85,5 @@ class Blackjack
   end
 end
 
-# game = Blackjack.new
-# game.play
+game = Blackjack.new
+game.play
