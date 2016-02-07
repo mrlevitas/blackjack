@@ -19,7 +19,7 @@ $ ruby blackjack.rb
 ```
 
 
-# to run test
+# to run unit tests
 ```no-highlight
 $ rspec
 ```
